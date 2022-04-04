@@ -1,0 +1,11 @@
+Model Information:
+* title:	Phenebub [free horror creature]
+* source:	https://sketchfab.com/3d-models/phenebub-free-horror-creature-e18dbcb6300b4421aac2bb51cc060aed
+* author:	Jorma Rysky (Joona Venäläinen) (https://sketchfab.com/Rysky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Phenebub [free horror creature]" (https://sketchfab.com/3d-models/phenebub-free-horror-creature-e18dbcb6300b4421aac2bb51cc060aed) by Jorma Rysky (Joona Venäläinen) (https://sketchfab.com/Rysky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

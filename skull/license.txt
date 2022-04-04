@@ -1,0 +1,11 @@
+Model Information:
+* title:	Haunted House - Skull
+* source:	https://sketchfab.com/3d-models/haunted-house-skull-1315f7e026544b6587bb19aa3df7fafe
+* author:	hullo (https://sketchfab.com/hullo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Haunted House - Skull" (https://sketchfab.com/3d-models/haunted-house-skull-1315f7e026544b6587bb19aa3df7fafe) by hullo (https://sketchfab.com/hullo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

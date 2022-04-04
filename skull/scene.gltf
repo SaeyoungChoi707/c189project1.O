@@ -1,0 +1,471 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 26119,
+      "max": [
+        198.3733367919922,
+        173.1694793701172,
+        197.10891723632813
+      ],
+      "min": [
+        -160.6235809326172,
+        -98.45247650146484,
+        -190.17962646484375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 313428,
+      "componentType": 5126,
+      "count": 26119,
+      "max": [
+        0.9999960660934448,
+        0.9999979734420776,
+        0.9999597072601318
+      ],
+      "min": [
+        -0.9999682903289795,
+        -1.0,
+        -0.9997484683990479
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 26119,
+      "max": [
+        0.9998550415039063,
+        0.9999997019767761,
+        0.9999918341636658,
+        1.0
+      ],
+      "min": [
+        -0.9999035000801086,
+        -0.9999997615814209,
+        -0.9999740123748779,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 26119,
+      "max": [
+        0.9987189173698425,
+        0.9982496500015259
+      ],
+      "min": [
+        0.00398622453212738,
+        0.006472170352935791
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 147720,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 626856,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        111.34092712402344,
+        98.22860717773438,
+        138.0322723388672
+      ],
+      "min": [
+        -85.76470947265625,
+        -131.9844970703125,
+        -122.73200988769531
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 704532,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        1.0,
+        0.9999920129776001,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999920129776001,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 417904,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        1.0,
+        1.0,
+        0.9999915361404419,
+        1.0
+      ],
+      "min": [
+        -0.9999991655349731,
+        -1.0,
+        -0.9999933242797852,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 208952,
+      "componentType": 5126,
+      "count": 6473,
+      "max": [
+        0.9955686330795288,
+        0.9918317794799805
+      ],
+      "min": [
+        0.0026427528355270624,
+        0.0028144321404397488
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 590880,
+      "componentType": 5125,
+      "count": 30147,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "hullo (https://sketchfab.com/hullo)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/haunted-house-skull-1315f7e026544b6587bb19aa3df7fafe",
+      "title": "Haunted House - Skull"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 711468,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 260736,
+      "byteOffset": 711468,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 782208,
+      "byteOffset": 972204,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 521472,
+      "byteOffset": 1754412,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2275884,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/HauntedHouse_skull_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/HauntedHouse_skull_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/HauntedHouse_skull_emissive.jpeg"
+    },
+    {
+      "uri": "textures/HauntedHouse_skull_normal.png"
+    },
+    {
+      "uri": "textures/HauntedHouse_Attributes_baseColor.png"
+    },
+    {
+      "uri": "textures/HauntedHouse_Attributes_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/HauntedHouse_Attributes_emissive.jpeg"
+    },
+    {
+      "uri": "textures/HauntedHouse_Attributes_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "HauntedHouse_skull",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 6
+      },
+      "name": "HauntedHouse_Attributes",
+      "normalTexture": {
+        "index": 7
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HauntedHouse_skull_HauntedHouse_skull_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HauntedHouse_attributes_HauntedHouse_Attributes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.05000000074505806,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.1102230411687688e-17,
+        -0.05000000074505806,
+        0.0,
+        0.0,
+        0.05000000074505806,
+        1.1102230411687688e-17,
+        0.0,
+        0.0,
+        -8.187400453607548e-06,
+        -1.8388900571153503e-05,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "c8f1aa60b7304058b768aa331a873500.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.3493950366973877,
+        97.39313507080078,
+        1.626238226890564,
+        1.0
+      ],
+      "name": "HauntedHouse_skull"
+    },
+    {
+      "mesh": 0,
+      "name": "HauntedHouse_skull_HauntedHouse_skull_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -12.854501724243164,
+        172.92788696289063,
+        2.027285099029541,
+        1.0
+      ],
+      "name": "HauntedHouse_attributes"
+    },
+    {
+      "mesh": 1,
+      "name": "HauntedHouse_attributes_HauntedHouse_Attributes_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    }
+  ]
+}
